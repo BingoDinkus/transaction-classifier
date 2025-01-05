@@ -1,0 +1,5 @@
+account_name = 'MY CARD (...1234)'
+source_csv_path = '~/Downloads/Transactions.CSV'
+cleanup_old_files = true
+output_unmatched_records = true
+allow_unmatched_records = false
